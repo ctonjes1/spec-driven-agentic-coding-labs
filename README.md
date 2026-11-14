@@ -8,6 +8,7 @@ A practical series of 45–60 minute labs for using Claude Code and Codex with p
 - A SCORM 1.2 course with an orientation SCO and one SCO per lab
 - Offline-capable HTML, CSS, and JavaScript source with no external runtime dependencies
 - Facilitator and LMS administrator guidance
+- A nine-slide editable PowerPoint overview
 - Templates for specifications, traceability, and evidence collection
 - Automated source and package validation
 
@@ -44,6 +45,7 @@ SCORM completion records instructional progress and learner attestations. It doe
 | `scorm-src/` | Editable SCORM 1.2 course source |
 | `docs/` | Course, facilitator, LMS, licensing, and release guidance |
 | `templates/` | Reusable spec-first engineering artifacts |
+| `presentations/` | Editable course overview deck |
 | `scripts/` | Portable validation and packaging scripts |
 | `.github/workflows/` | Pull-request and branch validation |
 
