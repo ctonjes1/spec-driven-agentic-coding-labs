@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use or adapt this course, please cite it as follows."
+title: "Specification-Driven Agentic Coding Labs"
+type: software
+authors:
+  - family-names: "Tonjes"
+    given-names: "Chris"
+repository-code: "https://github.com/ctonjes1/spec-driven-agentic-coding-labs"
+license: Apache-2.0
+version: 1.0.0
+date-released: 2026-11-14
+

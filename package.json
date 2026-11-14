@@ -1,0 +1,15 @@
+{
+  "name": "spec-driven-agentic-coding-labs",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Validation and packaging tools for the SCORM 1.2 course.",
+  "scripts": {
+    "validate": "node scripts/validate-scorm.mjs",
+    "package": "bash scripts/package-scorm.sh"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "Apache-2.0"
+}
+
